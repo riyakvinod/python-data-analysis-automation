@@ -1,5 +1,4 @@
 # Python Data Analysis & Automation Tool
-
 A beginner-friendly Python project that demonstrates data loading, cleaning,
 analysis, and visualization.
 
